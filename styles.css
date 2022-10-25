@@ -1,0 +1,15 @@
+
+#main-box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-color: gray;
+    width: 100vw;
+    margin-top: 20px;
+}
+#main-box  div{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    background-color: rgb(251, 199, 132);
+}
